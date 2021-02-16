@@ -11,4 +11,7 @@
     if (event.target === event.currentTarget){
     onCloseModal();
     }
+
+
+
     }
